@@ -1,2 +1,2 @@
 # docker-tasks
-repository for Docker tasks
+repository for Docker Class tasks
